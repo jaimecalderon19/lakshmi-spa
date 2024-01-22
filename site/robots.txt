@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lakshmibienestar.com/sitemap.xml
